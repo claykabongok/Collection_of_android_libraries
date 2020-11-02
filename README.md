@@ -28,10 +28,8 @@ A collection of android libraries, feel free to add more items to this list.
 | [PhotoView](https://github.com/chrisbanes/PhotoView)                                         | Implementation of ImageView for Android that supports zooming, by various touch gestures. |      Image      |
 | [StfalconImageViewer](https://github.com/stfalcon-studio/StfalconImageViewer)                |                     Kotlin Library for Async Data Loading and Caching                     |     Loading     |
 | [lottie-android](https://github.com/airbnb/lottie-android)                                   |    Render After Effects animations natively on Android and iOS, Web, and React Native     |   animations    |
-
-| [seismic](https://github.com/square/seismic) | Android device shake detection. | shake detection |
-
-| [MaterialShowcaseView](https://github.com/deano2390/MaterialShowcaseView) | A Material Design themed ShowcaseView for Android | Material Design |
+| [seismic](https://github.com/square/seismic)                                                 |                              Android device shake detection.                              | shake detection |
+| [MaterialShowcaseView](https://github.com/deano2390/MaterialShowcaseView)                    |                     A Material Design themed ShowcaseView for Android                     | Material Design |
 
 ## `Layout, Scroll, Placeholder,RecyclerView Dialog and Progress`
 
@@ -48,10 +46,9 @@ A collection of android libraries, feel free to add more items to this list.
 | [StickyScrollView](https://github.com/amarjain07/StickyScrollView)               |                            Sticky header and footer for android ScrollView.                             |  ScrollView   |
 | [flexbox-layout](https://github.com/google/flexbox-layout)                       |                                           Flexbox for Android                                           |    Flexbox    |
 | [AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout)             |                                     The Most Powerful Swipe Layout!                                     |    Layout     |
-
-| [AdapterDelegates](https://github.com/sockeqwe/AdapterDelegates) | "Favor composition over inheritance" for RecyclerView Adapters | RecyclerView |
-| [RangeSeekBar](https://github.com/sephiroth74/RangeSeekBar) | A Range Slider for Android. | SeekBar |
-| [TapTargetView](https://github.com/KeepSafe/TapTargetView) | An implementation of tap targets from the Material Design guidelines for feature discovery | View |
+| [AdapterDelegates](https://github.com/sockeqwe/AdapterDelegates)                 |                     "Favor composition over inheritance" for RecyclerView Adapters                      | RecyclerView  |
+| [RangeSeekBar](https://github.com/sephiroth74/RangeSeekBar)                      |                                       A Range Slider for Android.                                       |    SeekBar    |
+| [TapTargetView](https://github.com/KeepSafe/TapTargetView)                       |       An implementation of tap targets from the Material Design guidelines for feature discovery        |     View      |
 
 ## `Timeline`
 
@@ -90,22 +87,16 @@ A collection of android libraries, feel free to add more items to this list.
 | [CountryCodePickerProject](https://github.com/hbb20/CountryCodePickerProject) |                                    Country Code Picker (CCP) is an android library which provides an easy way to search and select country or international phone code. Also supports Android EditText phone mask and international phone validation.                                    | Input: phone number |
 | [gson](https://github.com/google/gson/blob/master/README.md)                  | Gson is a Java library that can be used to convert Java Objects into their JSON representation. It can also be used to convert a JSON string to an equivalent Java object. Gson can work with arbitrary Java objects including pre-existing objects that you do not have source-code of. |    Java Objects     |
 | [AboutLibraries](https://github.com/mikepenz/AboutLibraries)                  |                                                                                                           AboutLibraries is a library to offer some information of libraries.                                                                                                            |   AboutLibraries    |
-
-| [JSON-java](https://github.com/stleary/JSON-java) | A reference implementation of a JSON package in Java. | JSON |
-
-| [Java-WebSocket](https://github.com/TooTallNate/Java-WebSocket) | A barebones WebSocket client and server implementation written in 100% Java. | WebSocket |
-
-| [javapoet](https://github.com/square/javapoet) | A Java API for generating .java source files. | |
-| [auto-value-gson](https://github.com/rharter/auto-value-gson) | AutoValue Extension to add Gson De/Serializer support | De/Serializer |
-| [rxlint](https://github.com/littlerobots/rxlint) | A lint check for Android to check your RxJava code | lint check |
-
-| [easypermissions](https://github.com/googlesamples/easypermissions) | Simplify Android M system permissions | permissions |
-| [DeepLinkDispatch](https://github.com/airbnb/DeepLinkDispatch) | A simple, annotation-based library for making deep link handling better on Android | deep link |
-| [kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) | Library support for Kotlin coroutines | Kotlin coroutines |
-| [kotest](https://github.com/kotest/kotest) | Powerful, elegant and flexible test framework for Kotlin | Testing |
-| [android-gif-drawable](https://github.com/koral--/android-gif-drawable) | Views and Drawable for displaying animated GIFs on Android | GIFs |
-| [moshi](https://github.com/square/moshi) | A modern JSON library for Kotlin and Java. | JSON |
-
-| [libphonenumber](https://github.com/google/libphonenumber) | Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers. | Phone numbers |
-
-| [AndroidDeviceNames](https://github.com/jaredrummler/AndroidDeviceNames) | A small Android library to get the market name of an Android device. | AndroidDeviceNames |
+| [JSON-java](https://github.com/stleary/JSON-java)                             |                                                                                                                  A reference implementation of a JSON package in Java.                                                                                                                   |        JSON         |
+| [Java-WebSocket](https://github.com/TooTallNate/Java-WebSocket)               |                                                                                                       A barebones WebSocket client and server implementation written in 100% Java.                                                                                                       |      WebSocket      |
+| [javapoet](https://github.com/square/javapoet)                                |                                                                                                                      A Java API for generating .java source files.                                                                                                                       |                     |
+| [auto-value-gson](https://github.com/rharter/auto-value-gson)                 |                                                                                                                  AutoValue Extension to add Gson De/Serializer support                                                                                                                   |    De/Serializer    |
+| [rxlint](https://github.com/littlerobots/rxlint)                              |                                                                                                                    A lint check for Android to check your RxJava code                                                                                                                    |     lint check      |
+| [easypermissions](https://github.com/googlesamples/easypermissions)           |                                                                                                                          Simplify Android M system permissions                                                                                                                           |     permissions     |
+| [DeepLinkDispatch](https://github.com/airbnb/DeepLinkDispatch)                |                                                                                                    A simple, annotation-based library for making deep link handling better on Android                                                                                                    |      deep link      |
+| [kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines)            |                                                                                                                          Library support for Kotlin coroutines                                                                                                                           |  Kotlin coroutines  |
+| [kotest](https://github.com/kotest/kotest)                                    |                                                                                                                 Powerful, elegant and flexible test framework for Kotlin                                                                                                                 |       Testing       |
+| [android-gif-drawable](https://github.com/koral--/android-gif-drawable)       |                                                                                                                Views and Drawable for displaying animated GIFs on Android                                                                                                                |        GIFs         |
+| [moshi](https://github.com/square/moshi)                                      |                                                                                                                        A modern JSON library for Kotlin and Java.                                                                                                                        |        JSON         |
+| [libphonenumber](https://github.com/google/libphonenumber)                    |                                                                                  Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.                                                                                   |    Phone numbers    |
+| [AndroidDeviceNames](https://github.com/jaredrummler/AndroidDeviceNames)      |                                                                                                           A small Android library to get the market name of an Android device.                                                                                                           | AndroidDeviceNames  |
